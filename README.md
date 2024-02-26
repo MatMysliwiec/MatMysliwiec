@@ -1,6 +1,6 @@
 <img src="banner.png">
 
-- 🔭 I’m currently working on **develop me programming skills (python, C++)**
+- 🔭 I’m currently working on **develop my programming skills (python, C++)**
 
 - 🌱 I’m currently learning **AWS, Azure and trading skills**
 
