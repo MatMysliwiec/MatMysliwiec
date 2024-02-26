@@ -1,5 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Mateusz Myśliwiec</h1>
-<h3 align="center">I'm a gradute student of Technical Physics at the Cracow University of Technology</h3>
+<img src="banner.png">
 
 - 🔭 I’m currently working on **develop me programming skills (python, C++)**
 
