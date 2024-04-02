@@ -15,7 +15,7 @@
 </h3> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,autocad,aws,azure,c,cpp,dynamodb,flash,git,latex,matlab,mongodb,mysql,nodejs,postgres,powershell,pycharm,py,pytorch,tensorflow,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=anaconda,autocad,aws,azure,c,cpp,dynamodb,git,latex,matlab,mysql,py,ubuntu,linux" />
   </a>
 </p>
 
